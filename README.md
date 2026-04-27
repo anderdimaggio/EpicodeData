@@ -1,4 +1,6 @@
-# Esercitazione SQL - [Ander Di Maggio]
+# Data Analyst- \[Ander Di Maggio]
 
-Questo repository contiene lo script SQL con le soluzioni degli esercizi assegnati.
-Lo schema concettuale e logico del modello entità/relazione ed infine la risposta alle domande teoriche su canva caricate in un file pdf.
+
+
+Qui di seguito i miei esami svolti per Epicode nel corso di Data Analyst,basati su Excel,SQL,Python,Lookerstudio e PowerBI
+
