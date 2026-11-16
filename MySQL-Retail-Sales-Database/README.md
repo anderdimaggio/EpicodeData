@@ -1,6 +1,6 @@
 # Database Relazionale Vendite Retail & Analisi Business Intelligence (MySQL)
 
-## Panoramica del Progetto 
+## Panoramica del Progetto  
 Questo progetto riguarda la progettazione, l'implementazione e l'interrogazione analitica di un database relazionale per un'azienda retail specializzata in giocattoli e kit educativi, realizzato con **MySQL**.
 
 Partendo dalla modellazione concettuale e logica, il database è stato strutturato per tracciare il catalogo prodotti, i mercati geografici (Stati e Regioni) e le transazioni di vendita, automatizzando la reportistica aziendale tramite Viste SQL (`VIEW`).
