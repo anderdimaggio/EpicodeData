@@ -4,7 +4,7 @@ Progetto di Exploratory Data Analysis (EDA) e Data Visualization sviluppato in P
 
 ## Contenuto del Notebook
 All'interno del file `.ipynb` ogni passaggio è commentato nel dettaglio e copre:
-* **Data Understanding & Cleaning:** Esplorazione della struttura del dataset, verifica della natura delle variabili (stock vs flusso) e gestione dei valori nulli (`NaN`).
+* **Data Understanding & Cleaning:** Esplorazione della struttura del dataset, verifica della natura delle  variabili (stock vs flusso) e gestione dei valori nulli (`NaN`).
 * **Analisi Globale:** Calcolo dei casi cumulativi e dell'incidenza percentuale per singolo continente rispetto al totale mondiale.
 * **Analisi Temporale (Italia 2022):** Pulizia delle rilevazioni settimanali e visualizzazione dell'evoluzione dei casi totali e dei nuovi casi.
 * **Confronto Terapie Intensive:** Analisi distributiva tramite boxplot dei pazienti ICU tra Italia, Germania e Francia (Mag 2022 – Apr 2023).
