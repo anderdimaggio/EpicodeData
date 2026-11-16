@@ -1,50 +1,25 @@
-\# 📊 Retail Analytics \& Supply Chain Optimization: End-to-End Data Project
+# 📊 Retail Analytics & Supply Chain Optimization: Progetto End-to-End
 
+## 🎯 Panoramica del Progetto
+Questo progetto rappresenta una soluzione completa di Data Analysis e Business Intelligence sviluppata per un'azienda del settore Retail (Fashion). L'obiettivo principale è ottimizzare la gestione dell'inventario, prevenire le rotture di stock (*stockout*) e fornire al reparto Marketing insight basati sui dati per smaltire le eccedenze di magazzino (*overstock*) attraverso campagne di sconto mirate (*markdown*).
 
+## 🛠️ Tecnologie e Architettura dei Dati
+* **1. SQL (Estrazione e Pulizia Dati):** Estrazione, pulizia e unione (*join*) delle tabelle storiche delle transazioni, dell'anagrafica clienti e del catalogo prodotti per creare un dataset solido e strutturato.
+* **2. Python (Data Engineering e Motore Logico):** Calcolo delle vendite medie giornaliere, definizione delle soglie di sicurezza (*Reorder Point*) e sviluppo di algoritmi per classificare gli articoli come *"Ordine Urgente"* o *"Overstock"*.
+* **3. Microsoft Power BI (Data Visualization e BI):** Modellazione relazionale e sviluppo di una dashboard direzionale interattiva.
 
-\## 🎯 Project Overview
+---
 
-This project is a comprehensive Data Analysis and Business Intelligence solution developed for a Retail (Fashion) company. The primary objective is to optimize inventory management, prevent stockouts, and provide the Marketing department with data-driven insights to clear overstock through targeted markdowns.
+## 📈 La Dashboard Power BI
 
+### 1️⃣ Executive Summary (Top Management)
+Una visione macroscopica dello stato di salute generale e delle performance dell'azienda.
+![Executive Summary](Screenshots/1.png)
 
+### 2️⃣ Logistica - Riassortimento (Supply Chain)
+Un hub operativo dedicato all'ufficio acquisti per evidenziare le criticità di magazzino e il capitale immobilizzato.
+![Logistics](Screenshots/2.png)
 
-\## 🛠️ Technologies \& Data Architecture
-
-\* \*\*1. SQL (Data Extraction \& Cleaning):\*\* Extracted, cleaned, and joined historical transaction tables, customer master data, and product catalog to create a robust dataset.
-
-\* \*\*2. Python (Data Engineering \& Logic Engine):\*\* Calculated average daily sales, defined safety thresholds (Reorder Point), and created algorithms to tag items as "Urgent Order" or "Overstock".
-
-\* \*\*3. Microsoft Power BI (Data Visualization \& BI):\*\* Relational modeling and interactive executive dashboard.
-
-
-
-\---
-
-
-
-\## 📈 The Power BI Dashboard
-
-
-
-\### 1️⃣ Executive Summary (Top Management)
-
-A macroscopic view of the company's overall health and performance.
-
-!\[Executive Summary](Screenshots/1.png)
-
-
-
-\### 2️⃣ Logistics - Restocking (Supply Chain)
-
-An operational hub for the purchasing department to highlight stock criticalities and tied-up capital.
-
-!\[Logistics](Screenshots/2.png)
-
-
-
-\### 3️⃣ Targeted Markdown (Marketing \& Sales)
-
-A decision-support area to clear overstock through data-driven customer profiling and a What-If Simulator.
-
-!\[Marketing](Screenshots/3.png)
-
+### 3️⃣ Markdown Mirato (Marketing & Vendite)
+Un'area di supporto decisionale per smaltire l'overstock attraverso la profilazione clienti basata sui dati e un simulatore *What-If*.
+![Marketing](Screenshots/3.png)
