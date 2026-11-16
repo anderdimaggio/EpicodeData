@@ -1,7 +1,7 @@
 # 📊 Power BI — Interactive Sales & Performance Dashboard
 
 Dashboard interattiva sviluppata in **Power BI Desktop** per l'analisi delle performance commerciali, il monitoraggio dei ricavi e la segmentazione geografica e qualitativa dei dati.
-
+ 
 ## 🛠️ Competenze Tecniche Dimostrate
 * **Data Modeling:** Strutturazione del modello relazionale (Star Schema) con tabella calendario dedicata e collegamento tra tabelle dei fatti e dimensioni.
 * **DAX (Data Analysis Expressions):** Sviluppo di misure dinamiche per il calcolo dei totali, confronti temporali anno su anno (YoY) e variazioni percentuali.
